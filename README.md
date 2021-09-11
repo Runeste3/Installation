@@ -8,4 +8,4 @@ On the first screen, enable the “Add Python 3.8 to PATH” option and then cli
 ### 3. Run 'installer.sh' and wait for packages to install
 
 ## Usage :
-##### Run main.py and enjoy!
+### Run main.py and enjoy!
